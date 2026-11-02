@@ -1,0 +1,67 @@
+================================================================================
+                    JACOBSON MANOR INVESTIGATION: FIELD GUIDE & HINTS
+================================================================================
+
+[+] GENERAL TERMINAL TOOLKIT & FILE HANDLING
+--------------------------------------------------------------------------------
+MacOS / Linux:
+  • View text files (.txt, .log):       cat <filename>
+  • Open script/code in editor:         nano <filename.py>  (or code/open)
+  • Open manor map / images:            open <filename.jpeg>
+  • Navigate rooms:                     cd <directory>
+  • Return to previous room / root:     cd ..  (or cd ../..)
+  • Reveal hidden logs & secret files:  ls -la  (look for files starting with '.')
+
+Windows (PowerShell):
+  • View text files (.txt, .log):       Get-Content <filename>  (or cat <filename>)
+  • Open script/code in editor:         notepad <filename.py>  (or code <filename.py>)
+  • Open manor map / images:            start <filename.jpeg>
+  • Navigate rooms:                     cd <directory>
+  • Return to previous room / root:     cd ..  (or cd ..\..)
+  • Reveal hidden logs & secret files:  Get-ChildItem -Force  (or ls -Force)
+
+
+[+] STAGE 1: THE FOYER (ENTRY TRAIL & DECODING)
+--------------------------------------------------------------------------------
+• Hidden Guest Records:
+  Victims often conceal visitor lists. Inspect hidden files in the Foyer to find
+  the check-in ledger.
+• The Coat Check Ticket (.b64):
+  The ticket is encoded in Base64 (ASCII armor).
+  - CLI:    base64 -d coat_check_ticket.b64
+  - Tool:   python3 Cipher.py --mode b64decode --file Mansion/Foyer/coat_check_ticket.b64
+  - Goal:   Identify the badge number associated with the Master Keycard Override.
+
+
+[+] STAGE 2: THE DINING ROOM (CIPHER TEXT & KEY FRAGMENT 1)
+--------------------------------------------------------------------------------
+• The Torn Napkin (.rot13):
+  The message is scrambled using a classic Caesar substitution with an offset
+  of 13 letters (ROT13).
+  - Tool:   python3 Cipher.py --mode rot13 --file Mansion/Dining_Room/torn_napkin.rot13
+  - Goal:   Recover KEY_PART_1 (an exact 22-character string). Keep this safe!
+
+
+[+] STAGE 3: THE KITCHEN (FORENSIC LOG AUDITING)
+--------------------------------------------------------------------------------
+• The Pantry Access Log:
+  Search the access logs for emergency actions or unauthorized access:
+  - Linux/Mac:    grep "OVERRIDE" Mansion/Kitchen/pantry_access.log
+  - PowerShell:   Select-String -Path Mansion\Kitchen\pantry_access.log -Pattern "OVERRIDE"
+  - Goal:         Locate the emergency override timestamp (HH:MM:SS) tied to the suspect's badge.
+
+
+[+] STAGE 4: BEDROOM 2 (SECONDARY TERMINAL LOGIC)
+--------------------------------------------------------------------------------
+• The Workstation Console:
+  Run the terminal authentication script:
+  - Execution:    python3 Mansion/Bedroom_2/desk_terminal.py
+  - Prompt:       Enter the balcony override timestamp in 6-digit military format (HHMMSS).
+  - Goal:         Recover KEY_PART_2 (an exact 22-character string ending in '=').
+
+
+[+] STAGE 5: THE ATTIC & CIPHER.PY (RECONSTRUCTION & VAULT DECRYPTION)
+--------------------------------------------------------------------------------
+• Modern Cryptography Overview:
+  The master ledger in the attic (vault.enc) is protected using Fernet symmetric
+  encryption (AES-128-CBC + HMAC-SHA256). A valid Fern
