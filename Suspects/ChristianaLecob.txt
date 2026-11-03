@@ -1,3 +1,35 @@
-Christiana Lecob
+================================================================================
+                     SUSPECT DOSSIER: CHRISTIANA LECOB
+================================================================================
 
-Victor’s private estate attorney and financial manager. Victor recently caught her embezzling offshore funds and threatened to send her to prison by week's end. Silencing him was her only way to avoid prosecution and ruin.
+IDENTITY & DETAILS
+--------------------------------------------------------------------------------
+Full Name:           Christiana Lecob
+Age:                 34
+Relationship:        Senior Corporate Accountant & Estate Bookkeeper
+Badge ID:            #4402
+Check-In Time:       22:31:15 EST
+
+BACKGROUND & MOTIVE
+--------------------------------------------------------------------------------
+Christiana managed Victor's personal and offshore shell accounts for six years.
+Recent ledger audits initiated by Victor flagged unexplained multi-million-dollar
+escrow transfers into an unlisted Caribbean entity linked to Christiana. Victor had
+compiled conclusive documentation of embezzlement and informed legal counsel that
+formal warrants would be executed before midnight.
+
+INITIAL STATEMENT / ALIBI
+--------------------------------------------------------------------------------
+"I stayed downstairs near the conservatory and dining hall following dinner.
+I was checking the quarterly reconciliation figures on my tablet and speaking
+briefly with the catering staff. I never left the main floor, never went near the
+balcony, and certainly never accessed the upper executive wings."
+
+SUSPICIOUS INDICATORS & FORENSIC FLAGS
+--------------------------------------------------------------------------------
+• Registered to Guest Badge #4402[cite: 3].
+• Coat check records indicate a heavy winter coat was deposited upon arrival
+  containing an unauthorized Master Keycard Override tool[cite: 1, 3].
+• Possesses advanced knowledge of corporate balance sheets, encrypted backups,
+  and digital estate archives.
+================================================================================

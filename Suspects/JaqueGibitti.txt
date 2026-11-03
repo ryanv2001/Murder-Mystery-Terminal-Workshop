@@ -1,3 +1,34 @@
-Jaque Gibitti   
+================================================================================
+                     SUSPECT DOSSIER: JAQUE GIBITTI
+================================================================================
 
-A former biotech business partner whom Victor betrayed by secretly stealing and patenting their shared research. Victor publicly humiliated him and drove his company into bankruptcy, then threatened further ruin when Jaque confronted him. Consumed by anger and debt, Jaque had ample motive to settle the score.
+IDENTITY & DETAILS
+--------------------------------------------------------------------------------
+Full Name:           Jaque Gibitti
+Age:                 41
+Relationship:        Fine Art & Antiquities Dealer
+Badge ID:            #3301
+Check-In Time:       22:24:02 EST
+
+BACKGROUND & MOTIVE
+--------------------------------------------------------------------------------
+Jaque facilitated high-value classical art acquisitions for the Jacobson estate.
+Unknown to Jaque, Victor had quietly authenticated several recent 17th-century
+sculptures and discovered they were masterclass counterfeits. Victor compiled an
+unredacted transaction dossier and scheduled an automated transfer to INTERPOL's
+art theft unit for November 1.
+
+INITIAL STATEMENT / ALIBI
+--------------------------------------------------------------------------------
+"Victor had questions about provenance documents. We had a calm discussion in
+the gallery gallery around 22:40. Afterward, I stepped out onto the front veranda
+to take an international call. I returned inside only when the security alarms sounded."
+
+SUSPICIOUS INDICATORS & FORENSIC FLAGS
+--------------------------------------------------------------------------------
+• Registered to Guest Badge #3301.
+• Provenance documents found in his briefcase were flagged as forged duplicates.
+• Has known ties to underground black-market dealers across southern Europe.
+• Eyewitnesses confirmed seeing him on the front entrance steps making a call
+  during the critical 23:40 window.
+================================================================================

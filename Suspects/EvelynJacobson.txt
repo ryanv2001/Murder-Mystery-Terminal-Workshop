@@ -1,3 +1,33 @@
-Evelyn Jacobson   
+================================================================================
+                     SUSPECT DOSSIER: EVELYN JACOBSON
+================================================================================
 
-Victor’s estranged younger sister and sole blood relative. Drowning in debt, she arrived hoping for family aid, only for Victor to reveal he was leaving the entire estate to an outside foundation. Stopping him before the new will was finalized was her only chance at an inheritance.
+IDENTITY & DETAILS
+--------------------------------------------------------------------------------
+Full Name:           Evelyn Jacobson
+Age:                 52
+Relationship:        Estranged Sister
+Badge ID:            #1104
+Check-In Time:       22:15:10 EST
+
+BACKGROUND & MOTIVE
+--------------------------------------------------------------------------------
+Evelyn has been embroiled in a bitter two-year legal battle against Victor over the
+distribution of the Jacobson Family Heritage Trust. Victor recently leveraged an
+obscure predatory clause (Section 9B) in their father's will to strip Evelyn of her
+annual dividend rights and liquidate her portion of the estate's commercial real
+estate portfolio.
+
+INITIAL STATEMENT / ALIBI
+--------------------------------------------------------------------------------
+"Victor invited me to gloat. We exchanged sharp words over drinks by the fireplace
+around 22:45, but I walked away. I spent the remainder of the evening in the guest
+parlor making phone calls to my attorney in Boston. I didn't see him after that."
+
+SUSPICIOUS INDICATORS & FORENSIC FLAGS
+--------------------------------------------------------------------------------
+• Registered to Guest Badge #1104.
+• Repeatedly questioned staff regarding Victor's private safe combinations.
+• Her phone records verify an active call to her lawyer from 23:25 to 23:50 EST,
+  corroborating that she was engaged in phone correspondence during the breach window.
+================================================================================
