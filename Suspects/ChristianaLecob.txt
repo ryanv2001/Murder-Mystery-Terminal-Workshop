@@ -27,9 +27,9 @@ balcony, and certainly never accessed the upper executive wings."
 
 SUSPICIOUS INDICATORS & FORENSIC FLAGS
 --------------------------------------------------------------------------------
-• Registered to Guest Badge #4402[cite: 3].
+• Registered to Guest Badge#4402.
 • Coat check records indicate a heavy winter coat was deposited upon arrival
-  containing an unauthorized Master Keycard Override tool[cite: 1, 3].
+  containing an unauthorized Master Keycard Override tool.
 • Possesses advanced knowledge of corporate balance sheets, encrypted backups,
   and digital estate archives.
 ================================================================================

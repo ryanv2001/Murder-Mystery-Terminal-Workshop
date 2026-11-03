@@ -26,7 +26,7 @@ to take an international call. I returned inside only when the security alarms s
 
 SUSPICIOUS INDICATORS & FORENSIC FLAGS
 --------------------------------------------------------------------------------
-• Registered to Guest Badge #3301.
+• Registered to Guest Badge#3301.
 • Provenance documents found in his briefcase were flagged as forged duplicates.
 • Has known ties to underground black-market dealers across southern Europe.
 • Eyewitnesses confirmed seeing him on the front entrance steps making a call

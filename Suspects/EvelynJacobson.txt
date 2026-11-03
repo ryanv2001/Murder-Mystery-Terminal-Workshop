@@ -7,7 +7,7 @@ IDENTITY & DETAILS
 Full Name:           Evelyn Jacobson
 Age:                 52
 Relationship:        Estranged Sister
-Badge ID:            #1104
+Badge ID:           #1104
 Check-In Time:       22:15:10 EST
 
 BACKGROUND & MOTIVE
@@ -26,7 +26,7 @@ parlor making phone calls to my attorney in Boston. I didn't see him after that.
 
 SUSPICIOUS INDICATORS & FORENSIC FLAGS
 --------------------------------------------------------------------------------
-• Registered to Guest Badge #1104.
+• Registered to Guest Badge#1104.
 • Repeatedly questioned staff regarding Victor's private safe combinations.
 • Her phone records verify an active call to her lawyer from 23:25 to 23:50 EST,
   corroborating that she was engaged in phone correspondence during the breach window.
